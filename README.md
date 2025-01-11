@@ -74,6 +74,7 @@ The system follows a multi-stage pipeline:
 1. Clone the repository:
 
 ## Project Structure
+```
 wikipedia-rag-chatbot/
 ├── Chat.py                    # Main Streamlit interface
 ├── Summarizer.py             # Document summarization
@@ -85,7 +86,7 @@ wikipedia-rag-chatbot/
 ├── preprocessor.py          # Text preprocessing
 └── pages/
     └── analytics.py         # Analytics dashboard
-
+```
 
 ## Deployment
 
