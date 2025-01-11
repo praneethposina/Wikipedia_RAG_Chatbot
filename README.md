@@ -69,9 +69,6 @@ The system follows a multi-stage pipeline:
 ![Interface Screenshot 2](images/Analytics.png)
 *Analytics Dashboard*
 
-## Setup and Installation
-
-1. Clone the repository:
 
 ## Project Structure
 ```
